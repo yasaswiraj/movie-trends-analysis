@@ -9,13 +9,16 @@ Hypothesis - 1: Movies with a higher number of votes (numVotes) have higher aver
 Hypothesis - 2: Movies with sub-genres (i.e., movies belonging to multiple genres) tend to have better audienceRating compared to movies with only one genre.
 
 Yasaswi Raj Madari - 50608811 - yasaswir@buffalo.edu
-Hypothesis - 1 How do the genres change over time based on IMDb ratings?
+Hypothesis - 1: How do the genres change over time based on IMDb ratings?
 
 Hypothesis - 2: Which genre has been consistent among audiences?
 
 Sai Kumar Domakonda - 50604883 - sdomakon@buffalo.edu
+Hypothesis - 1: Do well-known directors (as measured by audience vote counts) receive higher and more consistent IMDb ratings compared to less popular directors
 
-Please put your team's information (e.g. team members name, ub number, email) in this file. (Delete this message after you have done so)
+Hypothesis - 2: Do longer runtime movies receive more audience engagement
+
+
 
 
 
