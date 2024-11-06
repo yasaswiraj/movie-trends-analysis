@@ -1,5 +1,8 @@
 # movie-trends-analysis
 Aravind Mohan - 50611294 - amohan22@buffalo.edu
+Hypothesis - 1: Movies with better critic rankings tend to have better audience ratings as properly. We've already visualized this relationship and calculated the correlation between critic rankings and common ratings
+
+Hypothesis - 2: Audience Ratings Differ Based on the Genre Objective: To examine if positive genres get constantly higher or lower audience scores compared to others. code follows below
 
 Teja Chalikanti - 50579526 - tejachal@buffalo.edu
 Hypothesis - 1: Movies with a higher number of votes (numVotes) have higher average ratings (averageRating)
